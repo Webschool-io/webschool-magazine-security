@@ -1,2 +1,2 @@
 # webschool-magazine-security
-A revista dedicada ao PHP.
+A revista dedicada à Seguança da Informação.
